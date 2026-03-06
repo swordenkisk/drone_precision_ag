@@ -173,4 +173,4 @@ MIT License — Copyright (c) 2026 swordenkisk
 **github.com/swordenkisk/drone_precision_ag**
 
 *Idea score: 94.9/100 — Novelty: 92 | Feasibility: 94 | Impact: 99*
-*From ideas_database.db — swordenkisk 🇩🇿 March 2026*
+— swordenkisk 🇩🇿 March 2026*
